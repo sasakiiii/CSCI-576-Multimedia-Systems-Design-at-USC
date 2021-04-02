@@ -1,2 +1,2 @@
-# CSCI-576-Project-and-HW
-HW and Project of CSCI-576 in USC Spring 2021
+# CSCI-576-Project-and-Assignments
+Assignments and Project of CSCI-576 in USC Spring 2021
